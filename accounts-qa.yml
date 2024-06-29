@@ -1,0 +1,16 @@
+#spring:
+#  config:
+#    activate:
+#      on-profile: "qa"
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Microservice Demo related QA APIs"
+  contactDetails:
+    name: "John - QA"
+    email: "john@brainvire.com"
+  onCallSupport:
+    - 8888888888
+    - 9090909090

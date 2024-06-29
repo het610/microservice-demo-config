@@ -1,0 +1,16 @@
+#spring:
+#  config:
+#    activate:
+#     on-profile: "prod"
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Microservice Demo related Prod APIs"
+  contactDetails:
+    name: "Het Kothari - Prod"
+    email: "het.kothari@brainvire.com"
+  onCallSupport:
+    - 8888888888
+    - 9090909090

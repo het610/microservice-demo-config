@@ -5,7 +5,7 @@ accounts:
  message: "Welcome to Microservice Demo related local APIs"
  contactDetails:
   name: "Het Kothari - Software Developer"
-  email: "{ciphar}082f37fe2779f8051a0659cd2c6b7e3c012d1c2abb4c39e55bfc652eef93a7328455cf9b2f298211ec024d411169b1b0"
+  email: "{cipher}082f37fe2779f8051a0659cd2c6b7e3c012d1c2abb4c39e55bfc652eef93a7328455cf9b2f298211ec024d411169b1b0"
  onCallSupport:
   - 8888888888
   - 9090909090

@@ -7,7 +7,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Microservice Demo related Production APIs"
+  message: "Welcome to Microservice Demo related prod APIs"
   contactDetails:
     name: "Het Kothari - Prod"
     email: "het.kothari@brainvire.com"
